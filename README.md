@@ -1,6 +1,6 @@
 # QUESTech Datathon
 
-![Screenshot 2023-03-05 at 8 17 52 PM](https://user-images.githubusercontent.com/44681827/222998700-4cc68b07-3a7f-476a-8835-fffe871e5d4d.png)
+![Screenshot 2023-03-05 at 8 19 34 PM](https://user-images.githubusercontent.com/44681827/222998808-37251945-b670-4985-820a-cf9bb2473184.png)
 
 A Jupyter notebook analyzing the major reasons for Tesla order cancellation and how Elon Musk's tweets correlate with order cancellation.
 
