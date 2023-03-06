@@ -16,10 +16,15 @@ Elon Musk (founder of SpaceX, Tesla, and Neuralink) is one of the most influenti
   * Issues with customer service (25.6%)
   * Elon Musk's online persona (25.3%)
   * Tesla's supply chain (17.1%)
+  
+![Screenshot 2023-03-05 at 8 54 40 PM](https://user-images.githubusercontent.com/44681827/223002285-5fb555bc-dd9b-41ce-9aa4-72407a66d1f0.png)
+ 
 * Elon Musk's tweets that involve the following three topics are strongly correlated with Tesla order cancellation:
   * His acquisition of Twitter (39.7%)
   * Politics (30.2%)
   * Engaging in discourse / Tagging others (30.1%)
+
+![Screenshot 2023-03-05 at 8 55 40 PM](https://user-images.githubusercontent.com/44681827/223002367-b23fde7d-889a-4571-a473-230d01b7d81d.png)
 
 ## Recommendations
 * Streamline the Tesla delivery process
