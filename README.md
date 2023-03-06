@@ -1,6 +1,6 @@
 # QUESTech Datathon
 
-![Screenshot 2023-03-05 at 8 19 34 PM](https://user-images.githubusercontent.com/44681827/222998808-37251945-b670-4985-820a-cf9bb2473184.png)
+![download](https://user-images.githubusercontent.com/44681827/223002743-6e5d327c-9923-4bbf-9921-6513cb29341a.png)
 
 A Jupyter notebook analyzing the major reasons for Tesla order cancellation and how Elon Musk's tweets correlate with order cancellation.
 
@@ -40,21 +40,21 @@ Elon Musk (founder of SpaceX, Tesla, and Neuralink) is one of the most influenti
 * Elon Musk should avoid discussing the topics that are strongly correlated with Tesla cancellation
 * Five-year implementation plan:
   * Year 1
-    * Conduct customer feedback surveys to identify specific areas for improvement in customer service.
-    * Hire and train additional customer service personnel to improve response times.
-    * Conduct feasibility studies and site selection for a new factory and begin the process of securing funding and permits.
+   * Conduct customer feedback surveys to identify specific areas for improvement in customer service.
+   * Hire and train additional customer service personnel to improve response times.
+   * Conduct feasibility studies and site selection for a new factory and begin the process of securing funding and permits.
   * Year 2
-    * Launch an online knowledge base and self-help tools to empower customers to troubleshoot and resolve common issues on their own.
-    * Begin construction on the new factory and install the necessary equipment and infrastructure.
+   * Launch an online knowledge base and self-help tools to empower customers to troubleshoot and resolve common issues on their own.
+   * Begin construction on the new factory and install the necessary equipment and infrastructure.
   * Year 3
-    * Launch a customer loyalty program to reward repeat purchases and referrals.
-    * Complete construction of the new factory and begin production.
+   * Launch a customer loyalty program to reward repeat purchases and referrals.
+   * Complete construction of the new factory and begin production.
   * Year 4
-    * Develop new partnerships with other companies to increase reach and accessibility for customers.
-    * Introduce new product lines or features to increase demand and maintain a competitive edge.
+   * Develop new partnerships with other companies to increase reach and accessibility for customers.
+   * Introduce new product lines or features to increase demand and maintain a competitive edge.
   * Year 5
-    * Continue to refine and optimize the customer service system, production processes, and distribution channels.
-    * Evaluate and review progress.
+   * Continue to refine and optimize the customer service system, production processes, and distribution channels.
+   * Evaluate and review progress.
 
 ## Project Timeline
 
