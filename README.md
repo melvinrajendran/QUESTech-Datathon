@@ -2,9 +2,7 @@
 
 ![download](https://user-images.githubusercontent.com/44681827/223003867-0532787c-049d-479a-ab74-6758fb7637a3.png)
 
-A Jupyter notebook analyzing the major reasons for Tesla order cancellation and how Elon Musk's tweets correlate with order cancellation.
-
-This data analysis project was submitted to the 2023 QUESTech Datathon at the University of Maryland, sponsored by Fifth Tribe. Team Coil, which includes myself and Daniel Lamb, won 1st place at the competition and was awarded a $500 cash prize.
+This repository contains a Jupyter notebook analyzing the major reasons for Tesla order cancellation and how Elon Musk's tweets correlate with order cancellation. This data analysis project was submitted to the 2023 QUESTech Datathon at the University of Maryland, sponsored by Fifth Tribe. Team Coil, which includes myself and Daniel Lamb, won 1st place at the competition and was awarded a $500 cash prize.
 
 ## Prompt
 
